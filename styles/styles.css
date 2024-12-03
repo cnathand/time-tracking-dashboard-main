@@ -1,0 +1,14 @@
+body{
+    max-height: 100vh;
+    margin: 15rem 0 15rem 0;
+}
+.main-grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr 1fr;
+}
+
+.grid1{
+    grid-column: 1;
+    grid-row: 1/3;
+}
