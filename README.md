@@ -97,3 +97,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+Peer review: Chris Wells-Hott
+
+Comments: Great job bro I like how your image is smooth when you shrink the webpage down. The only think i would adjust is the daily weekly monthly text to center when you shrink the webpage.
