@@ -94,7 +94,7 @@ body {
 .grid1-2 {
     display: grid;
     grid-template-rows: repeat(3, auto);
-    margin: 1rem 0rem 1.5rem 2rem
+    margin: 1rem 0rem 1.5rem 0rem;
 }
 
 .grid1-2 a {
