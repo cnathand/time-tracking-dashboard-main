@@ -88,6 +88,7 @@ body{
 .grid1-2 a{
 display: flex;
 align-items: center;
+justify-content: center;
 text-decoration: none;
 color: rgba(255, 255, 255, 0.411);
 }
