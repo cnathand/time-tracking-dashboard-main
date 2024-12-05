@@ -98,6 +98,14 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 
-Peer review: Chris Wells-Hott
+// Chainarung Nathan Dechyothin
 
-Comments: Great job bro I like how your image is smooth when you shrink the webpage down. The only think i would adjust is the daily weekly monthly text to center when you shrink the webpage.
+ // 12/5/2024 3:54pm
+
+ // Time Tracker
+
+ // Recreated a time tracker using the assests given to us
+
+//  Peer review: Chris Wells-Hott
+
+//  Comments: Great job bro I like how your image is smooth when you shrink the webpage down. The only think i would adjust is the daily weekly monthly text to center when you shrink the webpage.
