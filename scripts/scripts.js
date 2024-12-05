@@ -35,7 +35,7 @@ async function monthlyHours() {
     displayTime("Last Month - ", "monthly", data)
 }
 
-function displayTime(day, dates, data){
+function displayTime(day, dates, data) {
 
     currentWork.textContent = `${data[0].timeframes[`${dates}`].current}hrs`
     previousWork.textContent = `${day} ${data[0].timeframes[`${dates}`].previous}hrs`
@@ -53,12 +53,12 @@ function displayTime(day, dates, data){
 
 
 
-dailyBtn.addEventListener('click', function(){
+dailyBtn.addEventListener('click', function () {
     dailyHours();
 });
-weeklyBtn.addEventListener('click', function(){
+weeklyBtn.addEventListener('click', function () {
     weeklyHours();
 });
-monthlyBtn.addEventListener('click', function(){
+monthlyBtn.addEventListener('click', function () {
     monthlyHours();
 });
